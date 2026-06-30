@@ -130,9 +130,6 @@ The repository includes interactive Streamlit applications:
 
 
 
----
-
-
 # 🎯 Purpose
 
 The purpose of this repository is to provide practical machine learning examples and help learners understand the complete workflow from:
@@ -146,6 +143,3 @@ The purpose of this repository is to provide practical machine learning examples
 
 ---
 
-<p align="center">
-⭐ If you found this project useful, consider giving it a star.
-</p>
